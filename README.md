@@ -38,9 +38,25 @@ This repository contains Jupyter notebooks showcasing different machine learning
    - Dataset: Heart disease dataset
    - Techniques: Classification, feature scaling, model evaluation
 
-### 7. **Lab Experiments (lab2, lab4, lab6, lab8)**
-   - Various laboratory experiments and practical implementations
-   - Focus on core ML concepts and hands-on practice
+### 7. **Lab 2: Machine Learning Fundamentals**
+   - Laboratory experiment focusing on core ML concepts
+   - Practical implementation of fundamental algorithms
+   - Hands-on practice with model training and evaluation
+
+### 8. **Lab 4: Advanced ML Techniques**
+   - Advanced machine learning algorithms and methods
+   - Feature engineering and data preprocessing techniques
+   - Model optimization and tuning
+
+### 9. **Lab 6: Data Analysis and Visualization**
+   - Exploratory data analysis techniques
+   - Advanced visualization methods
+   - Statistical analysis of datasets
+
+### 10. **Lab 8: Model Evaluation and Comparison**
+   - Comprehensive model evaluation techniques
+   - Performance metrics and comparisons
+   - Cross-validation and hyperparameter tuning
 
 ## Requirements
 
